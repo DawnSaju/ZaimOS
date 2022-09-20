@@ -37,7 +37,7 @@
 
 ## About The Project
 
-![Screen Shot](LightMode.png)
+![Screen Shot](Light Mode.png)
 
 We are proud to announce that ZaimOS is soon going to released to the world.
 As one of the most used products today web browser and email website combined, ZaimOS puts the functions of both in the same interface making life easier and keeping you updated in this fast paced world.
