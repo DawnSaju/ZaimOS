@@ -38,7 +38,7 @@
 ## About The Project
 
 <a href="https://github.com/DawnSaju/ZaimOS">
-    <img src="Light Mode.png" alt="Logo" width="700" height="700">
+    <img src="Light Mode.png" alt="Logo">
 </a>
 
 We are proud to announce that ZaimOS is soon going to released to the world.
