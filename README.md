@@ -38,6 +38,7 @@
 ## About The Project
 
 <a href="https://github.com/DawnSaju/ZaimOS">
+  Light Mode
     <img src="Light Mode.png" alt="Logo">
 </a>
 
