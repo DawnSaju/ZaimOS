@@ -38,6 +38,9 @@
 ## About The Project
 
 ![Screen Shot](Light Mode.png)
+<a href="https://github.com/DawnSaju/ZaimOS">
+    <img src="Light Mode.png" alt="Logo" width="80" height="80">
+</a>
 
 We are proud to announce that ZaimOS is soon going to released to the world.
 As one of the most used products today web browser and email website combined, ZaimOS puts the functions of both in the same interface making life easier and keeping you updated in this fast paced world.
